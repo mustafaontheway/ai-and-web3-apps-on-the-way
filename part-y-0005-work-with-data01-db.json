@@ -1,0 +1,26 @@
+[
+    {
+        "id": 5,
+        "name": "TV",
+        "quantity": 14,
+        "per_price": 16000
+    },
+    {
+        "id": 9,
+        "name": "laptop",
+        "quantity": 6,
+        "per_price": 33500
+    },
+    {
+        "id": 16,
+        "name": "mobile phone",
+        "quantity": 17,
+        "per_price": 9500
+    },
+    {
+        "id": 17,
+        "name": "iron",
+        "quantity": 9,
+        "per_price": 2600
+    }
+]
